@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h2{
+  font-family: Helvetica;
+  color: black;
+  background-color: yellow;
+  padding: 5px;
+}
